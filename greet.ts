@@ -1,9 +1,9 @@
-// export function sayHello(name: string) {
-//     return `Hello from ${name}`;
-// }
 export class Greet{
+    constructor() {
+
+    }
     name:string;
-    sayHello(){
+    sayHi(){
         console.log("aaaaa");
     }
 }

@@ -3,7 +3,7 @@
   "compilerOptions": {
     "target": "es5",
     "sourceMap": true,
-    "module":"commonjs"
+    "module":"amd"
     //,
     // "typeRoots":["../node_modules/@types/"],
     // "types": [
