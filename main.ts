@@ -4,6 +4,7 @@ import * as $  from "jquery";
 
 $(document).ready(function(){
     $("#btn").click(function(){
+
             var g:Greet=new Greet();
             g.sayHi();
             var h:Hello=new Hello();
@@ -13,5 +14,6 @@ $(document).ready(function(){
             //     var g2:Greet=new Greet();
             //     g2.sayHi();
             // });
+            
     });
 });
